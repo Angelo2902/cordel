@@ -64,7 +64,7 @@ article p {
 
 #escuro {
     position: relative;
-    background-image: url(imagens/meme.jpg);
+    background-image: url(imagens/background001.jpg);
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -84,7 +84,7 @@ article p {
 
 #escuro2 {
     position: relative;
-    background-image: url(imagens/defuse.jpg);
+    background-image: url(imagens/background002.jpg);
     background-size: cover;
     background-position: center center;
     width: 100%;
