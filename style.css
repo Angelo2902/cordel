@@ -29,6 +29,7 @@ header{
 header h1 {
     color: white;
     font-family: 'h2';
+    font-variant: small-caps;
     font-size: 10vw;
     padding-top: 50px;
 }
@@ -72,7 +73,7 @@ article p {
     box-shadow: inset 0px 4px 20px 0px black;
     
 }
-#escuro > p {
+#escuro > p , #escuro2 > p {
     margin: 110px 30px;
     padding: 0px 5px;
     color: white;
